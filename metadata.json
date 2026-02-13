@@ -1,0 +1,8 @@
+{
+  "name": "FloraSoul - Emotional Support Plant",
+  "description": "An intelligent environmental companion with real-time voice-driven emotional support.",
+  "requestFramePermissions": [
+    "microphone",
+    "camera"
+  ]
+}
